@@ -47,8 +47,8 @@
 /* ║ Select another Palette, only one should be enabled at a time.                                                      ║ */
 /* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */
 
-/* ⭕ Modern Edition */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/discord/modern.css"); /**/
+/* ✅ Modern Edition */
+@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/discord/modern.css"); /**/
 
 /* ⭕ Blurple Edition */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/discord/blurple.css"); /**/
@@ -130,7 +130,7 @@
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/public/twitch.css"); /**/
 
 /* ⭕ Guilded Edition */
-@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/public/guilded.css"); /**/
+/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/public/guilded.css"); /**/
 
 /* ⭕ Revolt Edition */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/public/revolt.css"); /**/
