@@ -123,8 +123,8 @@
 /* ║ 1.1 Palette              ║ Public                          ║ */
 /* ╚══════════════════════════╩═════════════════════════════════╝ */
 
-/* ⭕ Spotify Edition */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/public/spotify.css"); /**/
+/* ✅ Spotify Edition */
+@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/public/spotify.css"); /**/
 
 /* ⭕ Twitch Edition */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/public/twitch.css"); /**/
@@ -136,7 +136,7 @@
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/public/revolt.css"); /**/
 
 /* ⭕ Dracula Edition */
-@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/public/dracula.css"); /**/
+/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/public/dracula.css"); /**/
 
 /* ⭕ Nord Edition */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/public/nord.css"); /**/
